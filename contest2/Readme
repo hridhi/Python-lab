@@ -1,0 +1,17 @@
+# Multiple Stacks 
+Implement two stacks in one array
+Input:
+
+Each testcase contains integers N, M, where N is the size of the stack, and M is the number of operations in the test case. Next line will include the size, and next M lines will include series of operations of the following type Character, value, where character indicates the stack operation $P1-push in stack 1,P2-push in stack 2, O1-pop from stack1, O2-pop from stack2, S1-size of stack1, S2-size of stack2$. For push, it is followed by a value, others will not be followed by a value.
+Output:
+
+For each testcase, output the result of each operation separated by a newline. The output of Push should be the content of the stack (print function given). Pop should output the popped value, top the value on top, size the size of the stack. If stack full when Push, return StackFullException case sensitive. If stack empty when pop or top, return StackEmptyException case sensitive. d.
+
+Since intermediate outputs are tracked in the test cases, do not modify the driver code.
+
+Subtasks
+
+Constraints
+
+1 \leq T \leq 10
+10 \leq N \leq 100

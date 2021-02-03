@@ -40,7 +40,7 @@ Sample Output:
     2
  
 References:
-
+https://www.geeksforgeeks.org/implement-two-stacks-in-an-array/
     
 ######Problem 2: Balanced paranthesis 
 Checking for balanced parenthesization is a common application of stacks. Here is a modified problem.
@@ -66,4 +66,4 @@ Sample output
 6 (()())
 
 References: 
-[https://www.geeksforgeeks.org/length-of-the-longest-valid-substring/]
+https://www.geeksforgeeks.org/length-of-the-longest-valid-substring/
